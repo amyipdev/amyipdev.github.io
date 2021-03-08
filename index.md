@@ -11,3 +11,17 @@ Hi, I'm Amy Parker. I'm a developer from California who writes primarily in Rust
 This is a simple chess client written in Rust designed for the command line. It's currently a work in progress. While it will target local multiplayer games initially, it is planned to expand it to local singleplayer (player vs. AI) and online mulitplayer modes as well.
 
 [See all my planned projects here](https://amyipdev.github.io/projects)
+
+## Interests
+
+### Music
+
+I listen to a lot of Sapphic music, with my favorite artists being:
+
+- **girl in red** - Her music is some of my favorite, and I'm really looking forward to her new album coming on April 30th.
+- **Hayley Kiyoko** - I used to have the This Side of Paradise EP on non-stop, and Citrine is great as well.
+- **mxmtoon** - Dusk and Dawn is great, but the real gems are in The Masquerade.
+- **Halsey** - She has so many great songs I couldn't possibly choose a favorite.
+- **Chloe Moriondo** - Again, a lot of great songs!
+
+You can view my comments about various songs [here](https://amyipdev.github.io/music).
