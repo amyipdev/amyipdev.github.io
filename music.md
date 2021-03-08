@@ -23,3 +23,23 @@ We got a bit of an early Christmas present with two queens in a king sized bed. 
 **Reviewed on**: March 8, 2021
 
 **Rating**: 9/10
+
+### rue
+
+Rue is an excellent song, and a great addition to girl in red's first full sized album. The background music is incredible, and the lyrics are spectacular. It's extremely catchy and will have you memorizing the lyrics in no time. It also fits with almost anything; you can slot it into any situation. While it's no where near as good as Serotonin, it's still incredible, and highly deserving of a 10 rating.
+
+**Spotify link**: [Listen](https://open.spotify.com/track/6lhuBaygBqxBjdcXrM685k?si=hvGlNlafSr6zpnAts0vcUg)
+
+**Reviewed on**: March 8, 2021
+
+**Rating**: 10/10
+
+### Say It
+
+Spotify made an excellent choice by having girl in red lead the new Norwegian Studio Oyster. Say It is an incredible song, and I'm glad girl in red got the time to perform there. It's a nice, safe, romantic song you can listen to anywhere. It's almost as catchy as rue, and the background music is a great pick-me-up. The lyrics are a bit lackluster, however; and the song goes at an odd pace without as thorough of a plot-line as girl in red's other songs. Nevertheless, it's still a great song, and can be binged on repeat for hours.
+
+**Spotify link**: [Listen](https://open.spotify.com/track/4677jRCDMa05jcA94EQ0hG?si=ja66vsaoQgm9GroJ3QgzTA)
+
+**Reviewed on**: March 8, 2021
+
+**Rating**: 8/10
