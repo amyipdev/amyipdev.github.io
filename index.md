@@ -34,3 +34,25 @@ I listen to a lot of Sapphic music, with my favorite artists being:
 - **Chloe Moriondo** - Again, a lot of great songs!
 
 You can view my comments about various songs [here](https://amyipdev.github.io/music).
+
+## Setup
+
+### Emacs
+
+I use Doom Emacs with no other modifications to my `~/.emacs.d`. I'll be uploading my `~/.doom.d` shortly; when it's finished uploading, you can find it [here](https://github.com/amyipdev/.doom.d).
+
+### AwesomeWM
+
+I use AwesomeWM as my window manager, going based on one of the awesome-copycats setups. Dotfiles will be uploaded shortly.
+
+### Kitty
+
+Dotfiles will be uploaded shortly.
+
+### ZSH
+
+Dotfiles will be uploaded shortly. I use oh-my-zsh to make theming easier.
+
+### Build
+
+See [the fleet](https://amyipdev.github.io/fleet).
