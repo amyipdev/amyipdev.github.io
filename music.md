@@ -13,3 +13,13 @@ Serotonin is easiily one of the best songs I've ever listened to. Unlike the maj
 **Reviewed on**: March 8, 2021
 
 **Rating**: 10/10
+
+### two queens in a king sized bed
+
+We got a bit of an early Christmas present with two queens in a king sized bed. I'm not super into Christmas music, but it's one of the best Christmas songs I've ever listened to. Once again, girl in red impresses us all with her incredible singing and lyric writing. I'm not quite sure how to comment on it; it's simply excellent.
+
+**Spotify link**: [Listen](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ?si=YqQgryrOTNaQVCX0jLuCEg)
+
+**Reviewed on**: March 8, 2021
+
+**Rating**: 9/10
