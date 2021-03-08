@@ -12,6 +12,10 @@ This is a simple chess client written in Rust designed for the command line. It'
 
 [See all my planned projects here](https://amyipdev.github.io/projects)
 
+#### GitHub
+
+This is where I do most of my code contributions. Check out my GitHub [here](https://github.com/amyipdev).
+
 ## Interests
 
 ### Music
