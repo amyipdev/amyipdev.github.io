@@ -56,3 +56,13 @@ Dotfiles will be uploaded shortly. I use oh-my-zsh to make theming easier.
 ### Build
 
 See [the fleet](https://amyipdev.github.io/fleet).
+
+## Random Posts
+
+You can view my Twitter feed [here](https://twitter.com/amy_thelesbian).
+
+Additionally, you can view my blog [here](https://amyipdev.github.io/blog).
+
+## Contact
+
+Feel free to contact me on Discord at `Amy (she/her)#0001` or on Matrix at `@amyip:matrix.org`. 
