@@ -14,6 +14,8 @@ Serotonin is easiily one of the best songs I've ever listened to. Unlike the maj
 
 **Rating**: 10/10
 
+---
+
 ### two queens in a king sized bed
 
 We got a bit of an early Christmas present with two queens in a king sized bed. I'm not super into Christmas music, but it's one of the best Christmas songs I've ever listened to. Once again, girl in red impresses us all with her incredible singing and lyric writing. I'm not quite sure how to comment on it; it's simply excellent.
@@ -24,6 +26,8 @@ We got a bit of an early Christmas present with two queens in a king sized bed. 
 
 **Rating**: 9/10
 
+---
+
 ### rue
 
 Rue is an excellent song, and a great addition to girl in red's first full sized album. The background music is incredible, and the lyrics are spectacular. It's extremely catchy and will have you memorizing the lyrics in no time. It also fits with almost anything; you can slot it into any situation. While it's no where near as good as Serotonin, it's still incredible, and highly deserving of a 10 rating.
@@ -33,6 +37,8 @@ Rue is an excellent song, and a great addition to girl in red's first full sized
 **Reviewed on**: March 8, 2021
 
 **Rating**: 10/10
+
+---
 
 ### Say It
 
