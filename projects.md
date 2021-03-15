@@ -1,16 +1,16 @@
 # Projects and Ideas
 
-## Work in Progress
+## Work in Progress/Completed
 
 ### `chess-rs`
 
 This is a simple chess client written in Rust designed for the command line. It’s currently a work in progress. While it will target local multiplayer games initially, it is planned to expand it to local singleplayer (player vs. AI) and online mulitplayer modes as well.
 
-## Future Projects
-
 ### `aurify`
 
-This program would allow users of distributions with the Arch Build System to shift their packages away from the binary repositories and to AUR variants. This would allow the user to have newer variants of software automatically, and to have it compiled from source. It would detect any package with an AUR variant (noted with the `-git` suffix) and update it accordingly; for example, `pacman` to `pacman-git` and `git` to `git-git`.
+Convert all your Arch Build System packages to their Arch User Repository versions with aurify! Aurify takes your packages, finds ones with AUR variants, and converts them accordingly. You can check it out [here](https://github.com/amyipdev/aurify).
+
+## Future Projects
 
 ### `libchess`
 
